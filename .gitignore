@@ -1,0 +1,6 @@
+# Secrets — nunca subir para o GitHub
+.env
+
+# Dados locais gerados pelo docker-compose.local.yml
+data/
+storage/
